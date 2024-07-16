@@ -111,9 +111,7 @@ The project is a social networking platform built using the MERN (MongoDB, Expre
 - Passport.js
 - Nodemailer
 - Crypto-js
-- Azure Blob Storage
 - Flask
-- Hugging Face Transformers
 
 
 ### Configuration
