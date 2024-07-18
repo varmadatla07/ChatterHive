@@ -153,4 +153,11 @@ The admin dashboard can be accessed at the `/admin` route. Use the `admin_tool.s
 
 Moderators have specific email domain (`@mod.chatterhive.com`). When registering with an email from this domain, the user is automatically assigned the moderator role. Moderators can be assigned to different communities from the admin dashboard.
 
+## Entity Relationship Diagram 
+  - **Eraser Link** : <a href="https://app.eraser.io/workspace/HF6RDbHxgGun03x0HS8p?origin=share" target="_blank">eraser.io</a>
+    
+## Demo of the Project: 
+  - **Demo Link** : <a href="https://chatterhive-frontend.onrender.com/signin" target="_blank">demo</a>
+
+
 
