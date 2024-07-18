@@ -22,7 +22,6 @@ The project is a social networking platform built using the MERN (MongoDB, Expre
 - The platform uses various NLP APIs for content moderation:
   - Perspective API: Filters spam, profanity, toxicity, harassment, etc.
   - TextRazor API: Used for content categorization
-  - Hugging Face Interface API: Utilizes BART Large MNLI for content categorization
 
 - A Flask application provides similar functionality to the Hugging Face Interface API:
   - Uses the BART Large MNLI model
