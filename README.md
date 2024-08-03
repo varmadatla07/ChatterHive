@@ -146,11 +146,11 @@ For content moderation, you need the `PERSPECTIVE_API_KEY` and either the `INTER
 
 ### Admin
 
-The admin dashboard is accessible via the /admin route. To set up the admin account, utilize the admin_tool.sh script. This account allows for the management of moderators, communities, and various administrative tasks. Additionally, you can enable or disable API services and switch between them directly from the admin dashboard.
+The admin dashboard is accessible via the `/admin route`. To set up the admin account, utilize the admin_tool.sh script. This account allows for the management of moderators, communities, and various administrative tasks. Additionally, you can enable or disable API services and switch between them directly from the admin dashboard.
 
 ### Moderator
 
-Moderators are identified by their specific email domain, which is @mod.chatterhive.com. When a user registers with an email from this domain, they are automatically granted the moderator role. From the admin dashboard, moderators can be assigned to different communities as needed.
+Moderators are identified by their specific email domain, which is `@mod.chatterhive.com`. When a user registers with an email from this domain, they are automatically granted the moderator role. From the admin dashboard, moderators can be assigned to different communities as needed.
 
 ## Entity Relationship Diagram 
   - **Eraser Link** : <a href="https://app.eraser.io/workspace/HF6RDbHxgGun03x0HS8p?origin=share" target="_blank">eraser.io</a>
