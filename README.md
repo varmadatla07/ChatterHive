@@ -23,11 +23,6 @@ The project is a social networking platform built using the MERN (MongoDB, Expre
   - Perspective API: Filters spam, profanity, toxicity, harassment, etc.
   - TextRazor API: Used for content categorization
 
-- A Flask application provides similar functionality to the Hugging Face Interface API:
-  - Uses the BART Large MNLI model
-  - Operates as a zero-shot classification pipeline
-  - Built with PyTorch framework
-
 - The system allows flexibility in API usage:
   - Different services can be chosen or disabled without affecting overall functionality
   - Uses a common interface for API interactions
@@ -110,7 +105,6 @@ The project is a social networking platform built using the MERN (MongoDB, Expre
 - Passport.js
 - Nodemailer
 - Crypto-js
-- Flask
 
 
 ### Configuration
