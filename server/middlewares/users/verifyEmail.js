@@ -61,6 +61,7 @@ const sendVerificationEmail = async (req, res) => {
       "Could not send verification email. There could be an issue with the provided credentials or the email service."
     );
     res.status(500).json({ message: "Something went wrong" });
+    console.log(err.message);
   }
 };
 
